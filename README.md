@@ -17,7 +17,7 @@ src/
 
 Step1.js: Form for basic information like Name, Email and Phone.
 
-
+![Screenshot_20240918_041653](https://github.com/user-attachments/assets/b2e4757d-c399-49ea-a563-434cdbae954d)
 
 Step2.js: Form for address, City, State nad Pincode.
 
