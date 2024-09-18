@@ -1,18 +1,18 @@
-Project Structure
+# Project Structure
 
 src/
 │
 ├── Components/
-│   ├── FormStep1.js        # First form page for personal details
-│   ├── FormStep2.js        # Second form page for address details
-│   ├── FormDataStep3.js      # Displays all the collected data
+│   ├── FormStep1.js        
+│   ├── FormStep2.js        
+│   ├── FormDataStep3.js      
 │
 ├── FormContext/
-│   └── Context.js          # Context for managing form state and data
+│   └── Context.js         
 │
-├── App.js                  # Main component with routing
-├── App.css                 # Basic styling for the application
-└── index.js                # Entry point
+├── App.js                 
+├── App.css                
+└── index.js                
 
 
 Step1.js: Form for basic information like Name, Email and Phone.
