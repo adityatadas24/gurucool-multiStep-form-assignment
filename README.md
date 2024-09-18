@@ -25,5 +25,5 @@ Step2.js: Form for address, City, State nad Pincode.
 
 Step3.js: Confirmation step or additional details.
 
-
+![Screenshot_20240918_041741](https://github.com/user-attachments/assets/894cc9ac-1c2e-4403-9c00-40d68d052b0d)
 
