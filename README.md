@@ -17,10 +17,13 @@ src/
 
 Step1.js: Form for basic information like Name, Email and Phone.
 
+
+
 Step2.js: Form for address, City, State nad Pincode.
 
-Step3.js: Confirmation step or additional details.
 
+
+Step3.js: Confirmation step or additional details.
 
 
 
